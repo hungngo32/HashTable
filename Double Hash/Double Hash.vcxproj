@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{ce053a70-97d7-426d-a32f-56f27d66b157}</ProjectGuid>
-    <RootNamespace>HashTable</RootNamespace>
+    <ProjectGuid>{6cdadd89-a9e8-43cc-8e57-c072ba10a7a7}</ProjectGuid>
+    <RootNamespace>DoubleHash</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
